@@ -9,3 +9,5 @@ story A2
 
 story B
 story B2
+
+story C
