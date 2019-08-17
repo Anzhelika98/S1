@@ -5,3 +5,6 @@ Task2b
 bb
 story  A
 story A2
+
+
+story B
