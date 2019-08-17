@@ -8,3 +8,4 @@ story A2
 
 
 story B
+story B2
